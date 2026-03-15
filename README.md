@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:ff4b4b&height=250&section=header&text=Welcome%20to%0ADhruvil's%20Experiment%20Lab&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hello 👋 I'm Dhruvilsinh Raulji</h1>
 <p align="center">
 Building for Fun • Chartered Accountancy Student • AI Experimenter

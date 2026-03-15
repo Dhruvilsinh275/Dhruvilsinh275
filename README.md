@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hello 👋 I'm Dhruvilsinh Raulji</h1>
+<p align="center">
+Building for Fun • Chartered Accountancy Student • AI Experimenter
+</p><p align="center">
+<img src="https://img.shields.io/badge/Focus-AI-blue" />
+<img src="https://img.shields.io/badge/OS-Android-black" />
+<img src="https://img.shields.io/badge/Platform-Termux-green" />
+<img src="https://img.shields.io/badge/Role-CA%20Student-red" />
+</p>
 
-<!--
-**Dhruvilsinh275/Dhruvilsinh275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">*🧠 About Me*</h1>
 
-Here are some ideas to get you started:
+🎓 CA Intermediate Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Experimenting with AI on mobile devices
+
+I don’t come from a computer science background,
+and I’m currently learning by experimenting, breaking things, and figuring things out.
+
+You could call it vibe coding.
+
+Using curiosity, AI tools, and late-night ideas to explore what can be built.
+
+⚡ I like building weird tech that actually works.
+
+---
+
+What I'm Doing Here
+
+- experimenting with code
+- learning how systems work
+- building small things just to see if they can exist
+- using AI as a creative coding partner
+
+No roadmap.
+Just curiosity.
+
+---
+
+Philosophy
+
+«“If the tools don’t exist, build them.”»
+
+---
+
+Current Status
+
+Non-technical person exploring technical worlds.
+
+Some experiments may work.
+Some will probably explode.
+
+Both are acceptable outcomes.
+
+---
+
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvilsinh_raulji_275)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhruvilsinh_raulji_275)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvilrauljirjk@gmail.com)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dhruvilsinh275&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruvilsinh275&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilsinh275&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
